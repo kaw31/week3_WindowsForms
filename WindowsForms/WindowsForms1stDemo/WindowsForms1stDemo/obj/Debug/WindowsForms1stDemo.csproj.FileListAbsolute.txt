@@ -1,0 +1,9 @@
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\WindowsForms1stDemo\WindowsForms1stDemo\bin\Debug\WindowsForms1stDemo.exe.config
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\WindowsForms1stDemo\WindowsForms1stDemo\bin\Debug\WindowsForms1stDemo.exe
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\WindowsForms1stDemo\WindowsForms1stDemo\bin\Debug\WindowsForms1stDemo.pdb
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\WindowsForms1stDemo\WindowsForms1stDemo\obj\Debug\WindowsForms1stDemo.csprojResolveAssemblyReference.cache
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\WindowsForms1stDemo\WindowsForms1stDemo\obj\Debug\WindowsForms1stDemo.Form1.resources
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\WindowsForms1stDemo\WindowsForms1stDemo\obj\Debug\WindowsForms1stDemo.Properties.Resources.resources
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\WindowsForms1stDemo\WindowsForms1stDemo\obj\Debug\WindowsForms1stDemo.csproj.GenerateResource.Cache
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\WindowsForms1stDemo\WindowsForms1stDemo\obj\Debug\WindowsForms1stDemo.exe
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\WindowsForms1stDemo\WindowsForms1stDemo\obj\Debug\WindowsForms1stDemo.pdb

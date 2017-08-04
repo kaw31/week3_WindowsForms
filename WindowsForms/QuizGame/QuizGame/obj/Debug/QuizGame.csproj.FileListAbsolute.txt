@@ -1,0 +1,9 @@
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\QuizGame\QuizGame\bin\Debug\QuizGame.exe.config
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\QuizGame\QuizGame\bin\Debug\QuizGame.exe
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\QuizGame\QuizGame\bin\Debug\QuizGame.pdb
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\QuizGame\QuizGame\obj\Debug\QuizGame.csprojResolveAssemblyReference.cache
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\QuizGame\QuizGame\obj\Debug\QuizGame.Form1.resources
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\QuizGame\QuizGame\obj\Debug\QuizGame.Properties.Resources.resources
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\QuizGame\QuizGame\obj\Debug\QuizGame.csproj.GenerateResource.Cache
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\QuizGame\QuizGame\obj\Debug\QuizGame.exe
+C:\Users\Student.150-16\Desktop\Kev\WindowsForms\QuizGame\QuizGame\obj\Debug\QuizGame.pdb
